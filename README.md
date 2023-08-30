@@ -2,10 +2,8 @@
 A simple Todo list using the MERN stack has CRUD functionality.
 
 ### Hosted Link : https://pine-todo-list.netlify.app/
+<br/>
 
-<br/>
-<br/>
-### Images:
 
 <img src="./images/TodoList1.png"  width="450" height="250" >
 <img src="./images/TodoList2.png"  width="450" height="250">
