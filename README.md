@@ -15,7 +15,7 @@ A simple Todo list using the MERN stack has CRUD functionality.
 - Toggle Todo - The user can toggle todos by clicking on the task.
 - Delete Todo - The user can delete todos by clicking on the trash icon.
 
-### There are four tabs:
+### Four tabs:
 - All Todos - Shows all the tasks.
 - Active Todo - Shows the undone tasks.
 - Done Todo - Shows the done tasks.
