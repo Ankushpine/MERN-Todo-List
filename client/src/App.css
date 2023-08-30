@@ -1,0 +1,93 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 100px;
+  color: #2c3e50;
+  font-weight: 400;
+}
+
+.inputText {
+  font-size: 20px;
+  color: #2c3e50;
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  border-bottom: 2px solid #2c3e50;
+  padding: 5px;
+}
+
+.task {
+  background-color: #34495e;
+  overflow-x: hidden;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+}
+
+.taskFeild {
+  flex: 11;
+}
+
+.trash {
+  flex: 1;
+}
+
+.pen {
+  flex: 1;
+}
+
+.task span {
+  cursor: pointer;
+}
+
+article {
+  display: grid;
+}
+
+.editTodoForm {
+  flex: 11;
+  width: 85%;
+}
+
+.editTodo {
+  color: white;
+  width: 95%;
+  font-size: 16px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #fff;
+}
+
+.button {
+  margin: 0 10px;
+  padding: 10px;
+  font-size: 16px;
+  color: #6c6777;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 8px;
+}
+
+.button.selected {
+  background-color: #34495e;
+  color: #fff;
+}
+
+.button.clear {
+  float: right;
+  color: #fff;
+  background-color: red;
+}
