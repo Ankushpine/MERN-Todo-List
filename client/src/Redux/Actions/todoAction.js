@@ -16,7 +16,7 @@ export const TABS = [ALL_TODO, ACTIVE_TODOS, DONE_TODOS];
 
 
 //Server Url
-const API_URL = "http://localhost:5000/";
+const API_URL = "https://pine-mern-todolist.onrender.com/";
 
 
 //Add Todo Action 
