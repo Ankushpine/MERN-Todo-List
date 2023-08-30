@@ -45,3 +45,12 @@ A simple Todo list using the MERN stack has CRUD functionality.
 - @fortawesome/free-regular-svg-icons
 - @fortawesome/free-solid-svg-icons
 - @fortawesome/react-fontawesome
+
+
+## How to setup the project on local system
+- Clone this project to your local system.
+- For client and server files individually follow the bellow steps.
+- Run `npm install` to install required dependencies.
+- Run `npm start` to start the app.
+- The client app will be live on [http://localhost:3000](http://localhost:3000).
+- The server app will be live on [http://localhost:5000](http://localhost:5000).
